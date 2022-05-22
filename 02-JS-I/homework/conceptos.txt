@@ -1,0 +1,5 @@
+variables: forma de almacenar el valor de algo para usar mas tarde
+strings: son bloques de texto que siempre se definiran entre comillas
+funciones (argumentos, return): este argumento de funcion hara que nos devuelva un resultado
+declaracion IF: IF es un control de flujo para que nuestra funcion verifique si algo es verdadero o falso
+valores booleanos: sencillamente significa q tienes 2 opciones (activar o desactivar, 0 o 1, true or false)
